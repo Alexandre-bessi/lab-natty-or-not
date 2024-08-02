@@ -1,8 +1,5 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-
 ### Template
 
 ```markdown
@@ -19,6 +16,3 @@ Um pequeno Podcast de 4 minutos, que fala brevemente sobre como o python desempe
 
 ## 🧐 Processo de Criação
 Utilizei o ChatGPT para a criação do roteiro base, passei o texto Humbot para "humanizar" a escrita e parecer mais como se uma pessoa tivesse escrito, pela ElevenLabs, fiz 3 tentativas de transformar o texto em voz, fiz uma revisão do texto com o Descript e tentei concertar uma parte que a IA não estava conseguindo falar corretamente
-
-## 🚀 Resultados
-
